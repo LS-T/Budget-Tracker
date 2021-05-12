@@ -6,9 +6,9 @@ This application was focused on turning an existing application into a progressi
 
 # User Story
 
-AS a user I want to be able to keep track of my budget offline
-I want to be able to not worry about having an internet connection
-While still being able to interact with the application
-SO that when I hop back online, my offline transactions populate. 
+    AS a user I want to be able to keep track of my budget offline
+    I want to be able to not worry about having an internet connection
+    While still being able to interact with the application
+    SO that when I hop back online, my offline transactions populate. 
 
 
